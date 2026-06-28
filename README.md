@@ -31,6 +31,7 @@ An interactive HR Analytics Dashboard built in Power BI to analyse employee attr
 - "HR Data.xlsx"-Dataset.
 - "Dashboard.png" Dashboard screenshort.
 
-<img width="1330" height="745" alt="image" src="https://github.com/user-attachments/assets/c65ee7a7-1cc1-4755-898e-9610888d220a" />
+<img width="1323" height="739" alt="Dashboard png" src="https://github.com/user-attachments/assets/55b911e8-768e-44b9-929c-cf4e2ea1ce72" />
+
 
 
